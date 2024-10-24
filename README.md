@@ -1,6 +1,7 @@
-Hi! I'm Amos Wenger, better known as fasterthanlime around the web.
+Hi! I'm Amos Wenger, better known as fasterthanlime.
 
-As of November of 2022, [writing in-depth articles](https://fasterthanli.me) and [making videos](https://youtube.com/@fasterthanlime) is my full-time occupation.
+I spend most of my time [writing in-depth articles](https://fasterthanli.me), [making videos](https://youtube.com/@fasterthanlime),
+and co-hosting the [self-directed research podcast](https://sdr-podcast.com).
 
 Before I did this, I worked at companies including itch.io, netlify, and fly.io.
 
